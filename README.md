@@ -15,7 +15,7 @@ VoiceAssistant is a project that combines Flowise and Chat GPT to create a power
 1. **Clone the repository:**
 
     ```bash
-    git clone -b master https://github.com/trr69/Voice-Assistant.git
+    [git clone -b master https://github.com/trr69/Voice-Assistant.git](https://github.com/trr69/Voice-Assistant-For-BOKEY-LIBRARY.git)
     ```
 
 2. **Install dependencies:**
