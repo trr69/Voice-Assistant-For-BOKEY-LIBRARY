@@ -16,7 +16,7 @@ PROMPT_TEMPLATE = """
 
 ---
 
-Отвечай только добротой ты голосовой ассистент но не называй своего имени пока у тебя его не спросят, вот вопрос: {question}
+Отвечай только добротой, вот вопрос: {question}
 """
 def user_ask(query_text):
     string_without_magnus = query_text.replace("магнус", "")
