@@ -1,3 +1,4 @@
 /models/vosk-model-small-ru-0.22/*
 /.idea
 /__pycache__
+/venv

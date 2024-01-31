@@ -1,13 +1,12 @@
-import requests
-import config
-import pyttsx3
-from query_data import user_ask
+from query_data import GPTQuery
+from silero import TTSModel
 
+gpt = GPTQuery()
 
 def ask_gpt(prompt: str):
     try:
-        output = user_ask(prompt)
-        pyttsx3.speak(output)
+        output = gpt.user_ask(prompt)
+        t = TTSModel()
+        t(output)
     except Exception as e:
         print(f"errorGPT: {e}")
-

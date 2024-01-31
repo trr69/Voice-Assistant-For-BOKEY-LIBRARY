@@ -1,4 +1,4 @@
-PATH_MODEL = r"D:\\model_small"
+PATH_MODEL = r""
 
 TRIGGERS = {'магнус'}
 

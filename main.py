@@ -1,7 +1,8 @@
-import app
+from app import Assistant
 
 def main():
-    app.start_assistant()
+    assistant = Assistant()
+    assistant.start_assistant()
 
 if __name__ == '__main__':
     main()
