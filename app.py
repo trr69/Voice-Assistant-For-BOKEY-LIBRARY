@@ -7,6 +7,7 @@ import time
 import threading
 import config
 
+
 class Assistant:
     def __init__(self):
         self.q = queue.Queue()
