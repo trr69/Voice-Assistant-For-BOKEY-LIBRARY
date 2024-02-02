@@ -1,6 +1,6 @@
 # VoiceAssistant
 
-![VoiceAssistant](./img/woman.jpg)
+![VoiceAssistant](./img/womann.jpg)
 
 Это голосовой ассистент магнус с возможностью RAG. Ассистент требует python версии 3.11.7
 
