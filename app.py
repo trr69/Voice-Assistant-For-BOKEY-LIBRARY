@@ -5,9 +5,7 @@ import vosk
 import ask_gpt
 import time
 import threading
-import sys
 import config
-
 
 class Assistant:
     def __init__(self):
