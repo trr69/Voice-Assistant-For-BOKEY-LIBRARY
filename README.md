@@ -1,6 +1,6 @@
 # VoiceAssistant
 
-![VoiceAssistant](./img/woman.jpg)
+![VoiceAssistant](./img/womann.jpg)
 
 VoiceAssistant is a project that combines Flowise and Chat GPT to create a powerful voice-driven assistant.
 
